@@ -6,13 +6,16 @@
   <a href="https://khamdam0va.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/🚀_Mening_Portfoliyim-Saytga_o'tish-00ff66?style=for-the-badge&logo=safari&logoColor=black" alt="Portfolio"/>
   </a>
-  <a href="https://www.upwork.com/freelancers/~01d7d91b3f7f2b8008" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~01d7d91b3f7f2b8008?mp_source=share" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-Top%20Rated-green?style=for-the-badge&logo=upwork" alt="Upwork"/>
   </a>
-  <a href="https://t.me/khamdam0va_developer" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Bog'lanish-blue?style=for-the-badge&logo=telegram" alt="Telegram"/>
+  <a href="https://t.me/Mayuzz_001" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Lichka-blue?style=for-the-badge&logo=telegram" alt="Telegram"/>
   </a>
-  <a href="mailto:sarafroz.khamdamova.dev@gmail.com">
+  <a href="https://t.me/hacker_hackerova" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Kanal-orange?style=for-the-badge&logo=telegram" alt="Kanal"/>
+  </a>
+  <a href="mailto:sarafrozxamdamova@gmail.com">
     <img src="https://img.shields.io/badge/Email-Yozish-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
 </div>
@@ -38,8 +41,6 @@ I am an ambitious **Software Developer, Infrastructure & Network Specialist, and
 
 Currently an **11th-grade student at Hackathon IT School**, I have evolved from an eager learner to a practicing developer and designer at **Hackathon Academy**. My expertise spans low-level system programming, algorithmic problem solving, cross-platform mobile app development, enterprise network engineering, and high-converting graphic design.
 
-My overarching goal is to pursue a degree in **Computer Science & Software Architecture** at a world-class university, where I can contribute to groundbreaking open-source research, system optimization, and high-impact digital products.
-
 ---
 
 ## 🏆 Hackathons & Competitive Tech Experience
@@ -48,7 +49,6 @@ I am an active competitor in high-stakes **Hackathons and Tech Competitions**, w
 
 * **Recent Hackathon Participant & Competitor:** Engineered full-stack/UI prototypes in intensive environments, handling logic architecture, interface flow, and rapid deployment within a few hours.
 * **Serial Hackathon Innovator:** Multiple competition experiences, leveraging C++, Flutter, and Python for rapid MVP development.
-* **Agile Sprint Execution:** Proven capability to turn raw ideas into working solutions under intense pressure.
 
 ---
 
@@ -67,82 +67,12 @@ I am an active competitor in high-stakes **Hackathons and Tech Competitions**, w
 
 ---
 
-## 🏗️ Pre-Photo Hackathon Projects (Oldingi Musobaqalardan)
-
-Before documenting my experiences with photos, I built significant technical assets at various hackathons. Here are some key projects developed under pressure:
-
-| Hackathon Project | Core Tech | Description & Impact |
-| :--- | :--- | :--- |
-| **Algorithmic Engine X** | C++ Builder / Python | High-performance algorithmic computation engine optimized for complex data parsing. |
-| **Real-time Mobile MVP** | Flutter / Firebase | Cross-platform real-time communication platform prototyped and launched in under 12 hours. |
-| **Enterprise Network Topology** | CISCO Packet Tracer | Highly secured corporate network architecture with robust OSPF and VLAN segmentation. |
-
----
-
 ## 🛠️ Comprehensive Technical Skill Matrix
 
-### 💻 Software Engineering & Algorithmic Logic
 * **Core Programming Languages:** C++, Python, Dart, C++ Builder
-* **Software Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), System Architecture, Low-level Optimization
-
-### 📱 Cross-Platform & Native Mobile Development
-* **Frameworks & SDKs:** Flutter, Android SDK, Responsive UI Design
-* **IDE & Tooling:** Android Studio, VS Code, C++ Builder, Git/GitHub Ecosystem
-
-### 🌐 Enterprise Networking & Cyber Infrastructure
-* **Network Standards & Protocols:** CISCO Systems Architecture
-* **Core Concepts:** Routing & Switching (OSPF, VLANs), Subnetting, OSI/TCP-IP Model, Network Security Fundamentals
-
-### 🎨 Visual Identity & UI/UX Design Engineering
-* **Design Suites:** Figma, Adobe Illustrator, Adobe Photoshop, CorelDRAW
-* **Specializations:** UX Research, Wireframing, High-fidelity UI Prototyping, Vector Graphics & Brand Identity
-
----
-
-## 🎓 Academic, Professional & Leadership Highlights
-
-* 🏢 **Hackathon IT School & Hackathon Academy (2020 – Present)**
-  * **Student & Developer:** Mastered fundamental and advanced computer science concepts from an early age.
-  * **Applied Engineering:** Contributed to internal software solutions, network setup, and modern UI mockups.
-* 💼 **Global Freelance Practice (Upwork - Top Rated)**
-  * **Client Engagement:** Delivering end-to-end digital solutions for international clients using Flutter, C++, and Adobe creative suites.
-
----
-
-## 🏗️ Technical Stack & Ecosystem Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/CISCO-12557A?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-## 📈 GitHub Analytics & Real-Time Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=khamdam0va&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=khamdam0va&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=stars">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=khamdam0va&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars"/>
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=khamdam0va&theme=tokyonight&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=khamdam0va&theme=github_dark&hide_border=true">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=khamdam0va&theme=tokyonight&hide_border=true"/>
-  </picture>
-</p>
+* **Cross-Platform & Mobile:** Flutter, Android SDK
+* **Networking & Infrastructure:** CISCO Systems Architecture, Oscoring, VLANs
+* **UI/UX & Design Suites:** Figma, Adobe Illustrator, Adobe Photoshop, CorelDRAW
 
 ---
 
@@ -160,10 +90,12 @@ Before documenting my experiences with photos, I built significant technical ass
 
 ## 📬 Connect & Technical Collaboration
 
-* **Upwork Verified Profile:** [Sarafroz Khamdamova on Upwork](https://www.upwork.com/freelancers/~01d7d91b3f7f2b8008)
-* **Telegram Channel / Contact:** [@khamdam0va_developer](https://t.me/khamdam0va_developer)
-* **Email:** [sarafroz.khamdamova.dev@gmail.com](mailto:sarafroz.khamdamova.dev@gmail.com)
-* **GitHub Repositories:** Explore open-source code and projects below!
+* **Portfolio Website:** [khamdam0va.github.io/portfolio](https://khamdam0va.github.io/portfolio/)
+* **Upwork Profile:** [Sarafroz Khamdamova on Upwork](https://www.upwork.com/freelancers/~01d7d91b3f7f2b8008?mp_source=share)
+* **LinkedIn Profile:** [Sarafroz Khamdamova on LinkedIn](https://www.linkedin.com/in/sarafroz-xamdamova-7135333a3/)
+* **Telegram Lichka:** [@Mayuzz_001](https://t.me/Mayuzz_001)
+* **Telegram Kanal:** [@hacker_hackerova](https://t.me/hacker_hackerova)
+* **Email:** [sarafrozxamdamova@gmail.com](mailto:sarafrozxamdamova@gmail.com)
 
 ---
 <p align="center">
