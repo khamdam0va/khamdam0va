@@ -60,22 +60,19 @@ I am an active competitor in high-stakes **Hackathons and Tech Competitions**, w
 
 ---
 
-## 📜 Certificates & Achievements
+## 📜 Professional Certificates & Official Achievements
 
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="certificate1.jpg" alt="Top Startup Certificate - Flint" width="400" /><br/><b>"Top Startup" Certificate ("Flint" Project)</b></td>
-      <td align="center"><img src="certificate2.jpg" alt="Hackathon Participation Certificate" width="400" /><br/><b>4-Day Hackathon Active Participant Certificate</b></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="certificate3.jpg" alt="Hackathon IT School Innovation Award" width="400" /><br/><b>Most Innovative Mobile and Desktop Application</b></td>
-      <td align="center"><img src="certificate4.jpg" alt="Physics Academic Achievement Certificate" width="400" /><br/><b>Physics Academic Achievement & Excellence</b></td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2"><img src="certificate5.jpg" alt="Hackathon IT School Achievement" width="400" /><br/><b>Outstanding Achievement in IT Studies (December 2025)</b></td>
+      <td align="center" width="20%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate1.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate1.jpg" alt="Certificate of Achievement - Hackathon IT School" width="100%" /></a><br/><b>Certificate of Achievement (Hackathon IT School)</b></td>
+      <td align="center" width="20%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate2.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate2.jpg" alt="4-Day Hackathon Active Participant Certificate" width="100%" /></a><br/><b>4-Day Hackathon Active Participant Certificate</b></td>
+      <td align="center" width="20%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate3.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate3.jpg" alt="Most Innovative Mobile and Desktop Application" width="100%" /></a><br/><b>Most Innovative Mobile and Desktop Application</b></td>
+       <td align="center" width="20%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate4.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate4.jpg" alt="Physics Academic Achievement Certificate" width="100%" /></a><br/><b>Physics Academic Achievement Certificate</b></td>
+      <td align="center" width="20%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate5.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate5.jpg" alt="Top Startup Certificate - Flint" width="100%" /></a><br/><b>"Top Startup" Certificate ("Flint" Project)</b></td>
     </tr>
   </table>
+  <i>(Click on a certificate to view a high-resolution version)</i>
 </div>
 
 ---
