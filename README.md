@@ -60,15 +60,39 @@ I am an active competitor in high-stakes **Hackathons and Tech Competitions**, w
 
 ---
 
-## 📸 Media & Visual Gallery (Recent Hackathon Highlights)
-
-<p align="center"><i>Competition workflow and real live captures</i></p>
+## 📜 Certificates & Achievements
 
 <div align="center">
   <table>
     <tr>
-      <td><img src="hackathon1.jpg" alt="Recent Hackathon Experience 1" width="400" /></td>
-      <td><img src="hackathon2.jpg" alt="Recent Hackathon Experience 2" width="400" /></td>
+      <td align="center"><img src="certificate1.jpg" alt="Top Startup Certificate - Flint" width="400" /><br/><b>"Top Startup" Certificate ("Flint" Project)</b></td>
+      <td align="center"><img src="certificate2.jpg" alt="Hackathon Participation Certificate" width="400" /><br/><b>4-Day Hackathon Active Participant Certificate</b></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="certificate3.jpg" alt="Hackathon IT School Innovation Award" width="400" /><br/><b>Most Innovative Mobile and Desktop Application</b></td>
+      <td align="center"><img src="certificate4.jpg" alt="Physics Academic Achievement Certificate" width="400" /><br/><b>Physics Academic Achievement & Excellence</b></td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2"><img src="certificate5.jpg" alt="Hackathon IT School Achievement" width="400" /><br/><b>Outstanding Achievement in IT Studies (December 2025)</b></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📸 Media & Visual Gallery (Recent Hackathon & Project Highlights)
+
+<p align="center"><i>Competition workflow, project presentations, live captures, and team events</i></p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="hackathon1.jpg" alt="Hackathon Presentation" width="400" /></td>
+      <td><img src="hackathon2.jpg" alt="Fergana Startup Day Event" width="400" /></td>
+    </tr>
+    <tr>
+      <td><img src="hackathon3.jpg" alt="Team Hackathon Event" width="400" /></td>
+      <td><img src="hackathon4.jpg" alt="Personal Project Showcase" width="400" /></td>
     </tr>
   </table>
 </div>
