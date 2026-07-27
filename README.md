@@ -136,7 +136,7 @@ I am an active competitor in high-stakes **Hackathons and Tech Competitions**, w
 <p align="center">
   <i>Maintained with ❤️ by Sarafroz Khamdamova | Software Engineer, Network Specialist & Designer | 2026</i>
 </p>
----
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff66,100:0f172a&height=180&section=header&text=Sarafroz%20Khamdamova&fontSize=40&fontColor=00ff66&fontAlignY=35&desc=Software%20Engineer%20|%20Network%20Specialist&descSize=16&descAlignY=60&animation=fadeIn" alt="Header Banner"/>
 </div>
