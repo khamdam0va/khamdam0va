@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/github-background-animation.gif" alt="Interactive Constellation Background Animation" width="100%" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);"/>
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Hello+World!+%F0%9F%91%8B;Sarafroz+Khamdamova;Software+Engineer;Network+Specialist;UI%2FUX+Designer" alt="Typing SVG" />
 </div>
 
