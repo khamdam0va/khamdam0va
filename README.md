@@ -4,19 +4,19 @@
 
 <div align="center">
   <a href="https://khamdam0va.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Mening_Portfoliyim-Saytga_o'tish-00ff66?style=for-the-badge&logo=safari&logoColor=black" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🚀_Portfolio-Website-00ff66?style=for-the-badge&logo=safari&logoColor=black" alt="Portfolio"/>
   </a>
   <a href="https://www.upwork.com/freelancers/~01d7d91b3f7f2b8008?mp_source=share" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-Top%20Rated-green?style=for-the-badge&logo=upwork" alt="Upwork"/>
   </a>
   <a href="https://t.me/Mayuzz_001" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Lichka-blue?style=for-the-badge&logo=telegram" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-Direct-blue?style=for-the-badge&logo=telegram" alt="Telegram Direct"/>
   </a>
   <a href="https://t.me/hacker_hackerova" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Kanal-orange?style=for-the-badge&logo=telegram" alt="Kanal"/>
+    <img src="https://img.shields.io/badge/Telegram-Channel-orange?style=for-the-badge&logo=telegram" alt="Telegram Channel"/>
   </a>
   <a href="mailto:sarafrozxamdamova@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Yozish-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
 </div>
 
@@ -60,9 +60,9 @@ I am an active competitor in high-stakes **Hackathons and Tech Competitions**, w
 
 ---
 
-## 📸 Media & Visual Gallery (Yaqinda Bo'lib O'tgan Hackathondan)
+## 📸 Media & Visual Gallery (Recent Hackathon Highlights)
 
-<p align="center"><i>Musobaqa jarayoni va real lavhalar</i></p>
+<p align="center"><i>Competition workflow and real live captures</i></p>
 
 <div align="center">
   <table>
@@ -79,7 +79,7 @@ I am an active competitor in high-stakes **Hackathons and Tech Competitions**, w
 
 * **Core Programming Languages:** C++, Python, Dart, C++ Builder
 * **Cross-Platform & Mobile:** Flutter, Android SDK
-* **Networking & Infrastructure:** CISCO Systems Architecture, Oscoring, VLANs
+* **Networking & Infrastructure:** CISCO Systems Architecture, Routing & Switching, VLANs
 * **UI/UX & Design Suites:** Figma, Adobe Illustrator, Adobe Photoshop, CorelDRAW
 
 ---
@@ -101,8 +101,8 @@ I am an active competitor in high-stakes **Hackathons and Tech Competitions**, w
 * **Portfolio Website:** [khamdam0va.github.io/portfolio](https://khamdam0va.github.io/portfolio/)
 * **Upwork Profile:** [Sarafroz Khamdamova on Upwork](https://www.upwork.com/freelancers/~01d7d91b3f7f2b8008?mp_source=share)
 * **LinkedIn Profile:** [Sarafroz Khamdamova on LinkedIn](https://www.linkedin.com/in/sarafroz-xamdamova-7135333a3/)
-* **Telegram Lichka:** [@Mayuzz_001](https://t.me/Mayuzz_001)
-* **Telegram Kanal:** [@hacker_hackerova](https://t.me/hacker_hackerova)
+* **Telegram Direct:** [@Mayuzz_001](https://t.me/Mayuzz_001)
+* **Telegram Channel:** [@hacker_hackerova](https://t.me/hacker_hackerova)
 * **Email:** [sarafrozxamdamova@gmail.com](mailto:sarafrozxamdamova@gmail.com)
 * **School Facebook:** [Hackathon IT School](https://www.facebook.com/hackathon.it.school/)
 * **Location Map:** [Google Maps Link](https://maps.app.goo.gl/neZCNRPPC71wY1ct5)
