@@ -31,7 +31,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-4%2B%20Years%20(Since%202020)-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/School-Hackathon%20IT%20School-orange?style=for-the-badge" href="https://www.facebook.com/hackathon.it.school/" />
+  <img src="https://img.shields.io/badge/School-Hackathon%20IT%20School-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-11th%20Grade%20Student-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Academy-Hackathon%20Academy-success?style=for-the-badge" />
   <a href="https://maps.app.goo.gl/neZCNRPPC71wY1ct5" target="_blank"><img src="https://img.shields.io/badge/Location-Uzbekistan%20📍-yellow?style=for-the-badge" /></a>
@@ -43,13 +43,13 @@
 
 I am an ambitious **Software Developer, Infrastructure & Network Specialist, and Visual Designer** based in Uzbekistan with **4+ years of active technical experience in the IT industry (since 2020)**. 
 
-Currently an **11th-grade student at [Hackathon IT School](https://www.facebook.com/hackathon.it.school/)**, I have evolved from an eager learner to a practicing developer and designer at **Hackathon Academy**. My expertise spans low-level system programming, algorithmic problem solving, cross-platform mobile app development, enterprise network engineering, and high-converting graphic design.
+Currently an **11th-grade student at Hackathon IT School**, I have evolved from an eager learner to a practicing developer and designer at **Hackathon Academy**. My expertise spans low-level system programming, algorithmic problem solving, cross-platform mobile app development, enterprise network engineering, and high-converting graphic design.
 
 ---
 
 ## 🏫 Educational Background & Affiliations
 
-* **Secondary Education:** 11th-Grade Student at **[Hackathon IT School](https://www.facebook.com/hackathon.it.school/)**
+* **Secondary Education:** 11th-Grade Student at **Hackathon IT School**
 * **Technical Training & Practice:** **Hackathon Academy**
 * **Geographical Location:** Uzbekistan ([View on Google Maps](https://maps.app.goo.gl/neZCNRPPC71wY1ct5))
 
@@ -69,33 +69,14 @@ I am an active competitor in high-stakes **Hackathons and Tech Competitions**, w
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="20%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate1.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate1.jpg" alt="Certificate of Achievement - Hackathon IT School" width="100%" /></a><br/><b>Certificate of Achievement (Hackathon IT School)</b></td>
-      <td align="center" width="20%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate2.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate2.jpg" alt="4-Day Hackathon Active Participant Certificate" width="100%" /></a><br/><b>4-Day Hackathon Active Participant Certificate</b></td>
-      <td align="center" width="20%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate3.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate3.jpg" alt="Most Innovative Mobile and Desktop Application" width="100%" /></a><br/><b>Most Innovative Mobile and Desktop Application</b></td>
-       <td align="center" width="20%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate4.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate4.jpg" alt="Physics Academic Achievement Certificate" width="100%" /></a><br/><b>Physics Academic Achievement Certificate</b></td>
-      <td align="center" width="20%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate5.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate5.jpg" alt="Top Startup Certificate - Flint" width="100%" /></a><br/><b>"Top Startup" Certificate ("Flint" Project)</b></td>
+      <td align="center" width="20%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate1.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate1.jpg" alt="Certificate of Achievement" width="100%" /></a><br/><b>Certificate of Achievement</b></td>
+      <td align="center" width="20%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate2.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate2.jpg" alt="4-Day Hackathon Participant" width="100%" /></a><br/><b>4-Day Hackathon Participant</b></td>
+      <td align="center" width="20%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate3.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate3.jpg" alt="Most Innovative Application" width="100%" /></a><br/><b>Most Innovative Application</b></td>
+       <td align="center" width="20%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate4.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate4.jpg" alt="Physics Academic Achievement" width="100%" /></a><br/><b>Physics Academic Achievement</b></td>
+      <td align="center" width="20%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate5.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate5.jpg" alt="Top Startup Certificate" width="100%" /></a><br/><b>"Top Startup" ("Flint")</b></td>
     </tr>
   </table>
   <i>(Click on a certificate to view a high-resolution version)</i>
-</div>
-
----
-
-## 📸 Media & Visual Gallery (Recent Hackathon & Project Highlights)
-
-<p align="center"><i>Competition workflow, project presentations, live captures, and team events</i></p>
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="hackathon1.jpg" alt="Hackathon Presentation" width="400" /></td>
-      <td><img src="hackathon2.jpg" alt="Fergana Startup Day Event" width="400" /></td>
-    </tr>
-    <tr>
-      <td><img src="hackathon3.jpg" alt="Team Hackathon Event" width="400" /></td>
-      <td><img src="hackathon4.jpg" alt="Personal Project Showcase" width="400" /></td>
-    </tr>
-  </table>
 </div>
 
 ---
@@ -129,7 +110,6 @@ I am an active competitor in high-stakes **Hackathons and Tech Competitions**, w
 * **Telegram Direct:** [@Mayuzz_001](https://t.me/Mayuzz_001)
 * **Telegram Channel:** [@hacker_hackerova](https://t.me/hacker_hackerova)
 * **Email:** [sarafrozxamdamova@gmail.com](mailto:sarafrozxamdamova@gmail.com)
-* **School Facebook:** [Hackathon IT School](https://www.facebook.com/hackathon.it.school/)
 * **Location Map:** [Google Maps Link](https://maps.app.goo.gl/neZCNRPPC71wY1ct5)
 
 ---
