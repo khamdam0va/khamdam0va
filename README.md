@@ -100,3 +100,4 @@ Currently an **11th-grade student at Hackathon IT School**, I serve as the **Tea
 <p align="center">
   <i>Maintained with ❤️ by Sarafroz Khamdamova | Software Engineer, Network Specialist & Designer | 2026</i>
 </p>
+
