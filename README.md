@@ -50,11 +50,10 @@ Currently an **11th-grade student at Hackathon IT School**, I serve as the **Tea
 ## 🎥 Director's Appreciation Visit (Video)
 
 <div align="center">
-  <video width="60%" controls style="border-radius: 10px;">
-    <source src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <p><i>The school director personally visited my home during the vacation to present an appreciation award and gift for my academic excellence.</i></p>
+  <a href="https://github.com/khamdam0va/khamdam0va/blob/main/video.mp4" target="_blank">
+    <img src="https://img.shields.io/badge/▶_Watch_Director's_Visit-Video-red?style=for-the-badge&logo=youtube" alt="Watch Video"/>
+  </a>
+  <p><i>The school director personally visited my home during the vacation to present an appreciation award and gift for my academic excellence. Click the button above to watch the video!</i></p>
 </div>
 
 ---
