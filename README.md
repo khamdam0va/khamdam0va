@@ -47,6 +47,18 @@ Currently an **11th-grade student at Hackathon IT School**, I serve as the **Tea
 
 ---
 
+## 🎥 Director's Appreciation Visit (Video)
+
+<div align="center">
+  <video width="60%" controls style="border-radius: 10px;">
+    <source src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <p><i>The school director personally visited my home during the vacation to present an appreciation award and gift for my academic excellence.</i></p>
+</div>
+
+---
+
 ## 📜 Professional Certificates & Official Achievements
 
 <div align="center">
@@ -100,4 +112,3 @@ Currently an **11th-grade student at Hackathon IT School**, I serve as the **Tea
 <p align="center">
   <i>Maintained with ❤️ by Sarafroz Khamdamova | Software Engineer, Network Specialist & Designer | 2026</i>
 </p>
-
