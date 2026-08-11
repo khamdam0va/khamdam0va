@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Experience-4%2B%20Years%20(Since%202020)-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/School-Hackathon%20IT%20School-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-11th%20Grade%20Student-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Academy-Hackathon%20Academy-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Team-Crafty%20Designers%20(Leader)-success?style=for-the-badge" />
   <a href="https://maps.app.goo.gl/neZCNRPPC71wY1ct5" target="_blank"><img src="https://img.shields.io/badge/Location-Uzbekistan%20📍-yellow?style=for-the-badge" /></a>
 </p>
 
@@ -43,24 +43,24 @@
 
 I am an ambitious **Software Developer, Infrastructure & Network Specialist, and Visual Designer** based in Uzbekistan with **4+ years of active technical experience in the IT industry (since 2020)**. 
 
-Currently an **11th-grade student at Hackathon IT School**, I have evolved from an eager learner to a practicing developer and designer at **Hackathon Academy**. My expertise spans low-level system programming, algorithmic problem solving, cross-platform mobile app development, enterprise network engineering, and high-converting graphic design.
+Currently an **11th-grade student at Hackathon IT School**, I serve as the **Team Leader of "Crafty designers"**, building scalable digital solutions, winning official hackathons, and developing real-world applications.
 
 ---
 
-## 🏫 Educational Background & Affiliations
+## 🏆 Fergana Youth Hackathon & Team Leadership ("Crafty Designers")
 
-* **Secondary Education:** 11th-Grade Student at **Hackathon IT School**
-* **Technical Training & Practice:** **Hackathon Academy**
-* **Geographical Location:** Uzbekistan ([View on Google Maps](https://maps.app.goo.gl/neZCNRPPC71wY1ct5))
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/hackathon1.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/hackathon1.jpg" alt="Fergana Youth Hackathon Award" width="100%" /></a><br/><b>Fergana Youth Hackathon — Team "Crafty designers"</b></td>
+      <td align="center" width="50%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/hackathon2.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/hackathon2.jpg" alt="Hackathon Process & UNDP Support" width="100%" /></a><br/><b>Hackathon Process & UNDP Support</b></td>
+    </tr>
+  </table>
+  <i>(Click on an image to view a high-resolution version)</i>
+</div>
 
----
-
-## 🏆 Hackathons & Competitive Tech Experience
-
-I am an active competitor in high-stakes **Hackathons and Tech Competitions**, where I design, prototype, and build scalable digital solutions under strict time constraints.
-
-* **Recent Hackathon Participant & Competitor:** Engineered full-stack/UI prototypes in intensive environments, handling logic architecture, interface flow, and rapid deployment within a few hours.
-* **Serial Hackathon Innovator:** Multiple competition experiences, leveraging C++, Flutter, and Python for rapid MVP development.
+* **Role:** Team Leader of **"Crafty designers"** at the **Fergana Youth Hackathon** (organized with UNDP support).
+* **Achievement:** Successfully led the team to build innovative technical solutions, earning official recognition and certificates.
 
 ---
 
@@ -69,11 +69,12 @@ I am an active competitor in high-stakes **Hackathons and Tech Competitions**, w
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="20%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate1.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate1.jpg" alt="Certificate of Achievement" width="100%" /></a><br/><b>Certificate of Achievement</b></td>
-      <td align="center" width="20%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate2.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate2.jpg" alt="4-Day Hackathon Participant" width="100%" /></a><br/><b>4-Day Hackathon Participant</b></td>
-      <td align="center" width="20%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate3.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate3.jpg" alt="Most Innovative Application" width="100%" /></a><br/><b>Most Innovative Application</b></td>
-       <td align="center" width="20%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate4.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate4.jpg" alt="Physics Academic Achievement" width="100%" /></a><br/><b>Physics Academic Achievement</b></td>
-      <td align="center" width="20%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate5.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate5.jpg" alt="Top Startup Certificate" width="100%" /></a><br/><b>"Top Startup" ("Flint")</b></td>
+      <td align="center" width="16%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate1.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate1.jpg" alt="Certificate of Achievement" width="100%" /></a><br/><b>Certificate of Achievement</b></td>
+      <td align="center" width="16%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate2.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate2.jpg" alt="4-Day Hackathon Participant" width="100%" /></a><br/><b>4-Day Hackathon Participant</b></td>
+      <td align="center" width="16%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate3.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate3.jpg" alt="Most Innovative Application" width="100%" /></a><br/><b>Most Innovative Application</b></td>
+      <td align="center" width="16%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate4.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate4.jpg" alt="Physics Academic Achievement" width="100%" /></a><br/><b>Physics Academic Achievement</b></td>
+      <td align="center" width="16%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate5.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate5.jpg" alt="Top Startup Certificate" width="100%" /></a><br/><b>"Top Startup" ("Flint")</b></td>
+      <td align="center" width="16%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate6.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate6.jpg" alt="Certificate of Appreciation" width="100%" /></a><br/><b>Certificate of Appreciation</b></td>
     </tr>
   </table>
   <i>(Click on a certificate to view a high-resolution version)</i>
