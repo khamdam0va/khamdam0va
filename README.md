@@ -74,13 +74,17 @@ Currently an **11th-grade student at Hackathon IT School**, I serve as the **Tea
 
 ---
 
-## 🏛️ Official Recommendation Letter
+## 🏛️ Official Recommendation Letters
 
 <div align="center">
-  <a href="Recommendation_Letter_Sarafroz_Khamdamova.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄_View_Official_Recommendation_Letter-Mahalla_Chairman-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Recommendation Letter"/>
+  <a href="Tavsifnoma-Mahalladan.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Mahalla_Chairman-Recommendation-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Mahalla Recommendation"/>
   </a>
-  <p><i>Official Recommendation Letter issued by the Chairman of Toshqo'rg'oni Aziz MFY (Fergana District).</i></p>
+  &nbsp;&nbsp;&nbsp;
+  <a href="Recommendation_Letter_Sarafroz-2.docx" target="_blank">
+    <img src="https://img.shields.io/badge/📄_English_Teacher-Recommendation-success?style=for-the-badge&logo=microsoftword" alt="Teacher Recommendation"/>
+  </a>
+  <p><i>Official recommendation letters issued by the Mahalla Chairman and my English Teacher.</i></p>
 </div>
 
 ---
