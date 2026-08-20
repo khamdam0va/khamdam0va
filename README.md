@@ -74,6 +74,17 @@ Currently an **11th-grade student at Hackathon IT School**, I serve as the **Tea
 
 ---
 
+## 🏛️ Official Recommendation Letter
+
+<div align="center">
+  <a href="Recommendation_Letter_Sarafroz_Khamdamova.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄_View_Official_Recommendation_Letter-Mahalla_Chairman-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Recommendation Letter"/>
+  </a>
+  <p><i>Official Recommendation Letter issued by the Chairman of Toshqo'rg'oni Aziz MFY (Fergana District).</i></p>
+</div>
+
+---
+
 ## 🛠️ Comprehensive Technical Skill Matrix
 
 * **Core Programming Languages:** C++, Python, Dart, C++ Builder
