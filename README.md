@@ -72,6 +72,7 @@ Currently an **11th-grade student at Hackathon IT School**, I serve as the **Tea
   <i>(Click on a certificate to view a high-resolution version)</i>
 </div>
 
+
 ---
 
 ## 🏛️ Official Recommendation Letters
