@@ -69,11 +69,11 @@ Currently an **11th-grade student at Hackathon IT School**, I serve as the **Tea
     <tr>
       <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate5.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate5.jpg" alt="Director Exam 1st Place" width="100%" /></a><br/><b>5. Director's Exam (1st Place)</b></td>
       <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate6.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate6.jpg" alt="Certificate of Appreciation" width="100%" /></a><br/><b>6. Director's Appreciation Visit</b></td>
-      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/37c6ef00-4b24-4736-8291-f1bffed61e5b.pdf" target="_blank"><img src="https://img.shields.io/badge/📄_7._No--Code_Course-Ustoz_AI-blue?style=for-the-badge&logo=adobeacrobatreader" alt="No-Code Certificate"/></a><br/><b>7. No-Code Course (Ustoz AI)</b></td>
-      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/e1e5f649-4336-4aba-a8dd-7ab01c2a8af9.pdf" target="_blank"><img src="https://img.shields.io/badge/📄_8._Graphic_Design-Gold_Cert-success?style=for-the-badge&logo=adobeacrobatreader" alt="Graphic Design Certificate"/></a><br/><b>8. Prof. Graphic Design (Ustoz AI)</b></td>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate7.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate7.jpg" alt="No-Code Certificate" width="100%" /></a><br/><b>7. No-Code Course (Ustoz AI)</b></td>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate8.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate8.jpg" alt="Graphic Design Certificate" width="100%" /></a><br/><b>8. Prof. Graphic Design (Ustoz AI)</b></td>
     </tr>
   </table>
-  <i>(Click on certificates 1-6 to view images, and 7-8 to open official PDF certificates)</i>
+  <i>(Click on a certificate to view a high-resolution version)</i>
 </div>
 
 ---
