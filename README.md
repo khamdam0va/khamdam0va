@@ -61,17 +61,20 @@ Currently an **11th-grade student at Hackathon IT School**, I serve as the **Tea
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="16%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate1.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate1.jpg" alt="Top Startup Flint" width="100%" /></a><br/><b>1. "Top Startup" (1st Place "Flint")</b></td>
-      <td align="center" width="16%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate2.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate2.jpg" alt="Hackathon IT School Award" width="100%" /></a><br/><b>2. Hackathon IT School (1st Place Award)</b></td>
-      <td align="center" width="16%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate3.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate3.jpg" alt="Flutter Competition" width="100%" /></a><br/><b>3. Flutter Dev (2nd Place & $100)</b></td>
-      <td align="center" width="16%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate4.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate4.jpg" alt="Physics Academic Achievement" width="100%" /></a><br/><b>4. Physics Academic Achievement</b></td>
-      <td align="center" width="16%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate5.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate5.jpg" alt="Director Exam 1st Place" width="100%" /></a><br/><b>5. Director's Exam (1st Place)</b></td>
-      <td align="center" width="16%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate6.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate6.jpg" alt="Certificate of Appreciation" width="100%" /></a><br/><b>6. Director's Appreciation Visit</b></td>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate1.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate1.jpg" alt="Top Startup Flint" width="100%" /></a><br/><b>1. "Top Startup" (1st Place "Flint")</b></td>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate2.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate2.jpg" alt="Hackathon IT School Award" width="100%" /></a><br/><b>2. Hackathon IT School (1st Place Award)</b></td>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate3.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate3.jpg" alt="Flutter Competition" width="100%" /></a><br/><b>3. Flutter Dev (2nd Place & $100)</b></td>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate4.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate4.jpg" alt="Physics Academic Achievement" width="100%" /></a><br/><b>4. Physics Academic Achievement</b></td>
+    </tr>
+    <tr>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate5.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate5.jpg" alt="Director Exam 1st Place" width="100%" /></a><br/><b>5. Director's Exam (1st Place)</b></td>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate6.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate6.jpg" alt="Certificate of Appreciation" width="100%" /></a><br/><b>6. Director's Appreciation Visit</b></td>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate7.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate7.jpg" alt="No-Code Certificate" width="100%" /></a><br/><b>7. No-Code Course (Ustoz AI)</b></td>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate8.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate8.jpg" alt="Graphic Design Certificate" width="100%" /></a><br/><b>8. Prof. Graphic Design (Ustoz AI)</b></td>
     </tr>
   </table>
   <i>(Click on a certificate to view a high-resolution version)</i>
 </div>
-
 
 ---
 
@@ -81,7 +84,7 @@ Currently an **11th-grade student at Hackathon IT School**, I serve as the **Tea
   <a href="Tavsifnoma-Mahalladan.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄_Mahalla_Chairman-Recommendation-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Mahalla Recommendation"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+      
   <a href="Recommendation_Letter_Sarafroz-2.docx" target="_blank">
     <img src="https://img.shields.io/badge/📄_English_Teacher-Recommendation-success?style=for-the-badge&logo=microsoftword" alt="Teacher Recommendation"/>
   </a>
