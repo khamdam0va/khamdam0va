@@ -1,8 +1,3 @@
-Mana, sizning GitHub README faylingizni to'liq **Cybersecurity (Kiberxavfsizlik)** va **Network Security (Tarmoq xavfsizligi)** yo'nalishiga moslab to'g'irlab chiqdim. Undagi "Software Engineer" va "Flutter" kabi kiberxavfsizlikka aloqasi bo'lmagan so'zlar olib tashlandi, o'rniga xavfsizlik va tarmoq infratuzilmasiga oid terminlar qo'yildi.
-
-Quyidagi tayyor kodni nusxalab, GitHub profilingizdagi `README.md` fayliga to'liq joylab qo'yasiz:
-
-```markdown
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Animated Network Background" width="100%" style="border-radius: 10px;" />
 </div>
@@ -133,5 +128,3 @@ Currently an **11th-grade student at Hackathon IT School**, I focus on network v
 <p align="center">
   <i>Maintained with ❤️ by Sarafroz Khamdamova | Cybersecurity & Network Security Specialist | 2026</i>
 </p>
-
-```
