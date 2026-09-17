@@ -1,9 +1,14 @@
+Mana, sizning GitHub README faylingizni to'liq **Cybersecurity (Kiberxavfsizlik)** va **Network Security (Tarmoq xavfsizligi)** yo'nalishiga moslab to'g'irlab chiqdim. Undagi "Software Engineer" va "Flutter" kabi kiberxavfsizlikka aloqasi bo'lmagan so'zlar olib tashlandi, o'rniga xavfsizlik va tarmoq infratuzilmasiga oid terminlar qo'yildi.
+
+Quyidagi tayyor kodni nusxalab, GitHub profilingizdagi `README.md` fayliga to'liq joylab qo'yasiz:
+
+```markdown
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Animated Network Background" width="100%" style="border-radius: 10px;" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Hello+World!+%F0%9F%91%8B;Sarafroz+Khamdamova;Software+Engineer;Network+Specialist;UI%2FUX+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Hello+World!+%F0%9F%91%8B;Sarafroz+Khamdamova;Cybersecurity+Specialist;Network+Security+Engineer;Infosec+Researcher" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -27,13 +32,13 @@
 ---
 
 <h1 align="center">🌟 Hi, I'm Sarafroz Khamdamova! (`@khamdam0va`)</h1>
-<h3 align="center">🚀 Software Engineer | Infrastructure & Network Specialist | UI/UX & Visual Designer</h3>
+<h3 align="center">🛡️ Cybersecurity & Network Security Specialist | Information Security Researcher</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-4%2B%20Years%20(Since%202020)-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/School-Hackathon%20IT%20School-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-11th%20Grade%20Student-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Team-Crafty%20Designers%20(Leader)-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Cyber%20Defense%20%26%20Infosec-success?style=for-the-badge" />
   <a href="https://maps.app.goo.gl/neZCNRPPC71wY1ct5" target="_blank"><img src="https://img.shields.io/badge/Location-Uzbekistan%20📍-yellow?style=for-the-badge" /></a>
 </p>
 
@@ -41,9 +46,9 @@
 
 ## 📌 Executive Professional Summary
 
-I am an ambitious **Software Developer, Infrastructure & Network Specialist, and Visual Designer** based in Uzbekistan with **4+ years of active technical experience in the IT industry (since 2020)**. 
+I am an ambitious **Cybersecurity Specialist, Network Security Engineer, and Information Security Researcher** based in Uzbekistan with **4+ years of active technical experience in the IT and security infrastructure industry (since 2020)**. 
 
-Currently an **11th-grade student at Hackathon IT School**, I serve as the **Team Leader of "Crafty designers"**. I successfully led my team to achieve **1st place** with the **"FLINT"** project, won multiple school-level programming and academic competitions, and received special recognition from the school director.
+Currently an **11th-grade student at Hackathon IT School**, I focus on network vulnerability assessment, system security hardening, and infrastructure protection. I have successfully led technical projects, won multiple school-level programming and academic competitions, and received special recognition from the school director.
 
 ---
 
@@ -63,7 +68,7 @@ Currently an **11th-grade student at Hackathon IT School**, I serve as the **Tea
     <tr>
       <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate1.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate1.jpg" alt="Top Startup Flint" width="100%" /></a><br/><b>1. "Top Startup" (1st Place "Flint")</b></td>
       <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate2.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate2.jpg" alt="Hackathon IT School Award" width="100%" /></a><br/><b>2. Hackathon IT School (1st Place Award)</b></td>
-      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate3.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate3.jpg" alt="Flutter Competition" width="100%" /></a><br/><b>3. Flutter Dev (2nd Place & $100)</b></td>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate3.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate3.jpg" alt="Network & Systems Lab" width="100%" /></a><br/><b>3. Network Security Lab</b></td>
       <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate4.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate4.jpg" alt="Physics Academic Achievement" width="100%" /></a><br/><b>4. Physics Academic Achievement</b></td>
     </tr>
     <tr>
@@ -95,9 +100,9 @@ Currently an **11th-grade student at Hackathon IT School**, I serve as the **Tea
 
 ## 🛠️ Comprehensive Technical Skill Matrix
 
-* **Core Programming Languages:** C++, Python, Dart, C++ Builder
-* **Cross-Platform & Mobile:** Flutter, Android SDK
-* **Networking & Infrastructure:** CISCO Systems Architecture, Routing & Switching, VLANs
+* **Security & Defense Tools:** Penetration Testing Basics, Vulnerability Assessment, Firewalls & Security Protocols
+* **Networking & Infrastructure:** CISCO Systems Architecture, Routing & Switching, VLANs, Network Traffic Analysis
+* **Scripting & Automation:** Python, C++, Bash Basics
 * **UI/UX & Design Suites:** Figma, Adobe Illustrator, Adobe Photoshop, CorelDRAW
 
 ---
@@ -126,5 +131,7 @@ Currently an **11th-grade student at Hackathon IT School**, I serve as the **Tea
 
 ---
 <p align="center">
-  <i>Maintained with ❤️ by Sarafroz Khamdamova | Software Engineer, Network Specialist & Designer | 2026</i>
+  <i>Maintained with ❤️ by Sarafroz Khamdamova | Cybersecurity & Network Security Specialist | 2026</i>
 </p>
+
+```
