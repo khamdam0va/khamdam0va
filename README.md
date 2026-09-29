@@ -69,8 +69,8 @@ Currently an **11th-grade student at Hackathon IT School**, I focus on network v
     <tr>
       <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate5.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate5.jpg" alt="Director Exam 1st Place" width="100%" /></a><br/><b>5. Director's Exam (1st Place)</b></td>
       <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate6.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate6.jpg" alt="Certificate of Appreciation" width="100%" /></a><br/><b>6. Director's Appreciation Visit</b></td>
-      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate8.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate8.jpg" alt="No-Code Certificate" width="100%" /></a><br/><b>7. No-Code Course (Ustoz AI)</b></td>
-      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate7.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate7.jpg" alt="Graphic Design Certificate" width="100%" /></a><br/><b>8. Prof. Graphic Design (Ustoz AI)</b></td>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate7.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate7.jpg" alt="Graphic Design Certificate" width="100%" /></a><br/><b>7. Prof. Graphic Design (Ustoz AI)</b></td>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate8.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate8.jpg" alt="No-Code Certificate" width="100%" /></a><br/><b>8. No-Code Course (Ustoz AI)</b></td>
     </tr>
   </table>
   <i>(Click on a certificate to view a high-resolution version)</i>
