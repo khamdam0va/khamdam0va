@@ -56,13 +56,17 @@ Currently an **11th-grade student at Hackathon IT School**, I focus on network v
 
 ---
 
+
+
 ## 📸 3-Day Life Album & Personal Milestones
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/3day_albums.png" alt="3 Day Album" width="60%" style="border-radius: 10px;" />
-  <p><i>A visual snapshot of my recent 3-day journey: combining tech milestones, team moments, and life memories! ✨</i></p>
 </div>
----
+
+<p align="center">
+  <em>✨ <strong>Life & Tech Integration:</strong> Beyond terminals, firewalls, and cybersecurity labs lies the real journey—balancing rigorous studies, hackathon wins, family warmth, and unforgettable team moments. Whether it's analyzing network vulnerabilities, preparing for university applications (BIT, SCUT), or enjoying a peaceful drive and gatherings with loved ones, every experience shapes my growth as a future engineer and researcher. Consistency, passion, and genuine human connection are the true core of my daily progress. 🚀</em>
+</p>
 
 ## 🎥 Director's Appreciation Visit (Live Preview)
 
