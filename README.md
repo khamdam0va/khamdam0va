@@ -47,6 +47,24 @@ Currently an **11th-grade student at Hackathon IT School**, I focus on network v
 
 ---
 
+## ⚡ Current Focus & Status
+
+- 🛡️ **Focus:** Deep diving into Cybersecurity, Network Vulnerability Assessment, and System Hardening.
+- 📚 **Academic Goal:** Preparing for university applications (BIT, SCUT) with a strong technical background.
+- 🚀 **Recent Milestone:** Achieved 1st place at "Fergana Youth Hackathon 2024" with project **"Flint"** and successfully developed "Malina 365".
+- 💻 **Daily Routine:** Coding, exploring infosec labs, and sharing professional milestones on LinkedIn.
+
+---
+
+## 📸 3-Day Life Album & Personal Milestones
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/album-3days.jpg" alt="3 Day Album" width="60%" style="border-radius: 10px;" />
+  <p><i>A visual snapshot of my recent 3-day journey: combining tech milestones, team moments, and life memories! ✨</i></p>
+</div>
+
+---
+
 ## 🎥 Director's Appreciation Visit (Live Preview)
 
 <div align="center">
@@ -66,7 +84,7 @@ Currently an **11th-grade student at Hackathon IT School**, I focus on network v
       <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate3.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate3.jpg" alt="Network & Systems Lab" width="100%" /></a><br/><b>3. Network Security Lab</b></td>
       <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate4.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate4.jpg" alt="Physics Academic Achievement" width="100%" /></a><br/><b>4. Physics Academic Achievement</b></td>
     </tr>
-   <tr>
+    <tr>
       <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate5.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate5.jpg" alt="Director Exam 1st Place" width="100%" /></a><br/><b>5. Director's Exam (1st Place)</b></td>
       <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate6.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate6.jpg" alt="Certificate of Appreciation" width="100%" /></a><br/><b>6. Director's Appreciation Visit</b></td>
       <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate7.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate7.jpg" alt="No-Code Certificate" width="100%" /></a><br/><b>7. No-Code Course (Ustoz AI)</b></td>
