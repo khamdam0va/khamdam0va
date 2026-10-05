@@ -59,7 +59,7 @@ Currently an **11th-grade student at Hackathon IT School**, I focus on network v
 ## 📸 3-Day Life Album & Personal Milestones
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/3day-albums.jpg" alt="3 Day Album" width="60%" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/3day albums.jpg" alt="3 Day Album" width="60%" style="border-radius: 10px;" />
   <p><i>A visual snapshot of my recent 3-day journey: combining tech milestones, team moments, and life memories! ✨</i></p>
 </div>
 
