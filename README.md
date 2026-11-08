@@ -80,18 +80,22 @@ Currently an **11th-grade student at Hackathon IT School**, I focus on network v
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="20%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate1.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate1.jpg" alt="Top Startup Flint" width="100%" /></a><br/><b>1. "Top Startup" (1st Place "Flint")</b></td>
-      <td align="center" width="20%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate2.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate2.jpg" alt="Hackathon IT School Award" width="100%" /></a><br/><b>2. Hackathon IT School (1st Place)</b></td>
-      <td align="center" width="20%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate3.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate3.jpg" alt="Network & Systems Lab" width="100%" /></a><br/><b>3. Network Security Lab</b></td>
-      <td align="center" width="20%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate4.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate4.jpg" alt="Physics Academic Achievement" width="100%" /></a><br/><b>4. Physics Achievement</b></td>
-      <td align="center" width="20%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/wiseup-volunteering.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/wiseup-volunteering.jpg" alt="WiseUp International Volunteering" width="100%" /></a><br/><b>5. WiseUp Intl. Volunteering</b></td>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate1.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate1.jpg" alt="Top Startup Flint" width="100%" /></a><br/><b>1. "Top Startup" (1st Place "Flint")</b></td>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate2.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate2.jpg" alt="Hackathon IT School Award" width="100%" /></a><br/><b>2. Hackathon IT School (1st Place)</b></td>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate3.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate3.jpg" alt="Network & Systems Lab" width="100%" /></a><br/><b>3. Network Security Lab</b></td>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate4.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate4.jpg" alt="Physics Academic Achievement" width="100%" /></a><br/><b>4. Physics Achievement</b></td>
     </tr>
     <tr>
-      <td align="center" width="20%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate5.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate5.jpg" alt="Director Exam 1st Place" width="100%" /></a><br/><b>6. Director's Exam (1st Place)</b></td>
-      <td align="center" width="20%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate6.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate6.jpg" alt="Certificate of Appreciation" width="100%" /></a><br/><b>7. Director's Appreciation</b></td>
-      <td align="center" width="20%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate7.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate7.jpg" alt="No-Code Certificate" width="100%" /></a><br/><b>8. No-Code Course (Ustoz AI)</b></td>
-      <td align="center" width="20%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate8.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate8.jpg" alt="Graphic Design Certificate" width="100%" /></a><br/><b>9. Graphic Design (Ustoz AI)</b></td>
-      <td align="center" width="20%"></td>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/wiseup-volunteering.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/wiseup-volunteering.jpg" alt="WiseUp International Volunteering" width="100%" /></a><br/><b>5. WiseUp Intl. Volunteering</b></td>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate5.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate5.jpg" alt="Director Exam 1st Place" width="100%" /></a><br/><b>6. Director's Exam (1st Place)</b></td>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate6.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate6.jpg" alt="Certificate of Appreciation" width="100%" /></a><br/><b>7. Director's Appreciation</b></td>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate7.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate7.jpg" alt="No-Code Certificate" width="100%" /></a><br/><b>8. No-Code Course (Ustoz AI)</b></td>
+    </tr>
+    <tr>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate8.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate8.jpg" alt="Graphic Design Certificate" width="100%" /></a><br/><b>9. Graphic Design (Ustoz AI)</b></td>
+      <td align="center" width="25%"></td>
+      <td align="center" width="25%"></td>
+      <td align="center" width="25%"></td>
     </tr>
   </table>
   <i>(Click on a certificate to view a high-resolution version)</i>
@@ -149,4 +153,3 @@ Currently an **11th-grade student at Hackathon IT School**, I focus on network v
 <p align="center">
   <i>Maintained with ❤️ by Sarafroz Khamdamova | Cybersecurity & Network Security Specialist | 2026</i>
 </p>
-
