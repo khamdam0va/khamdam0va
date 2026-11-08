@@ -1,27 +1,27 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Animated Network Background" width="100%" style="border-radius: 10px;" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Animated Network Background" width="100%" style="border-radius: 10px;" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Hello+World!+%F0%9F%91%8B;Sarafroz+Khamdamova;Cybersecurity+Specialist;Network+Security+Engineer;Infosec+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Hello+World!+%F0%9F%91%8B;Sarafroz+Khamdamova;Cybersecurity+Specialist;Network+Security+Engineer;Infosec+Researcher" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="https://khamdam0va.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Portfolio-Website-00ff66?style=for-the-badge&logo=safari&logoColor=black" alt="Portfolio"/>
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01d7d91b3f7f2b8008?mp_source=share" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-Top%20Rated-green?style=for-the-badge&logo=upwork" alt="Upwork"/>
-  </a>
-  <a href="https://t.me/Mayuzz_001" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Direct-blue?style=for-the-badge&logo=telegram" alt="Telegram Direct"/>
-  </a>
-  <a href="https://t.me/hacker_hackerova" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Channel-orange?style=for-the-badge&logo=telegram" alt="Telegram Channel"/>
-  </a>
-  <a href="mailto:sarafrozxamdamova@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
+  <a href="https://khamdam0va.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Portfolio-Website-00ff66?style=for-the-badge&logo=safari&logoColor=black" alt="Portfolio"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01d7d91b3f7f2b8008?mp_source=share" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-Top%20Rated-green?style=for-the-badge&logo=upwork" alt="Upwork"/>
+  </a>
+  <a href="https://t.me/Mayuzz_001" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Direct-blue?style=for-the-badge&logo=telegram" alt="Telegram Direct"/>
+  </a>
+  <a href="https://t.me/hacker_hackerova" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Channel-orange?style=for-the-badge&logo=telegram" alt="Telegram Channel"/>
+  </a>
+  <a href="mailto:sarafrozxamdamova@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
 </div>
 
 ---
@@ -30,18 +30,18 @@
 <h3 align="center">🛡️ Cybersecurity & Network Security Specialist | Information Security Researcher</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-4%2B%20Years%20(Since%202020)-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/School-Hackathon%20IT%20School-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-11th%20Grade%20Student-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Cyber%20Defense%20%26%20Infosec-success?style=for-the-badge" />
-  <a href="https://maps.app.goo.gl/neZCNRPPC71wY1ct5" target="_blank"><img src="https://img.shields.io/badge/Location-Uzbekistan%20📍-yellow?style=for-the-badge" /></a>
+  <img src="https://img.shields.io/badge/Experience-4%2B%20Years%20(Since%202020)-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/School-Hackathon%20IT%20School-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-11th%20Grade%20Student-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Cyber%20Defense%20%26%20Infosec-success?style=for-the-badge" />
+  <a href="https://maps.app.goo.gl/neZCNRPPC71wY1ct5" target="_blank"><img src="https://img.shields.io/badge/Location-Uzbekistan%20📍-yellow?style=for-the-badge" /></a>
 </p>
 
 ---
 
 ## 📌 Executive Professional Summary
 
-I am an ambitious **Cybersecurity Specialist, Network Security Engineer, and Information Security Researcher** based in Uzbekistan with **4+ years of active technical experience in the IT and security infrastructure industry (since 2020)**. 
+I am an ambitious **Cybersecurity Specialist, Network Security Engineer, and Information Security Researcher** based in Uzbekistan with **4+ years of active technical experience in the IT and security infrastructure industry (since 2020)**. 
 
 Currently an **11th-grade student at Hackathon IT School**, I focus on network vulnerability assessment, system security hardening, and infrastructure protection. I have successfully led technical projects, won multiple school-level programming and academic competitions, and received special recognition from the school director.
 
@@ -61,18 +61,18 @@ Currently an **11th-grade student at Hackathon IT School**, I focus on network v
 ## 📸 3-Day Life Album & Personal Milestones
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/3day_albums.png" alt="3 Day Album" width="60%" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/3day_albums.png" alt="3 Day Album" width="60%" style="border-radius: 10px;" />
 </div>
 
 <p align="center">
-  <em>✨ <strong>Life & Tech Integration:</strong> Beyond terminals, firewalls, and cybersecurity labs lies the real journey—balancing rigorous studies, hackathon wins, family warmth, and unforgettable team moments. Whether it's analyzing network vulnerabilities, preparing for university applications (BIT, SCUT), or enjoying a peaceful drive and gatherings with loved ones, every experience shapes my growth as a future engineer and researcher. Consistency, passion, and genuine human connection are the true core of my daily progress. 🚀</em>
+  <em>✨ <strong>Life & Tech Integration:</strong> Beyond terminals, firewalls, and cybersecurity labs lies the real journey—balancing rigorous studies, hackathon wins, family warmth, and unforgettable team moments. Whether it's analyzing network vulnerabilities, preparing for university applications (BIT, SCUT), or enjoying a peaceful drive and gatherings with loved ones, every experience shapes my growth as a future engineer and researcher. Consistency, passion, and genuine human connection are the true core of my daily progress. 🚀</em>
 </p>
 
 ## 🎥 Director's Appreciation Visit (Live Preview)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/director-visit.gif.gif" alt="Director's Visit Animation" width="60%" style="border-radius: 10px;" />
-  <p><i>The school director personally visited my home during the vacation to present an appreciation award and gift for my academic excellence.</i></p>
+  <img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/director-visit.gif.gif" alt="Director's Visit Animation" width="60%" style="border-radius: 10px;" />
+  <p><i>The school director personally visited my home during the vacation to present an appreciation award and gift for my academic excellence.</i></p>
 </div>
 
 ---
@@ -80,21 +80,21 @@ Currently an **11th-grade student at Hackathon IT School**, I focus on network v
 ## 📜 Professional Certificates & Official Achievements
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate1.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate1.jpg" alt="Top Startup Flint" width="100%" /></a><br/><b>1. "Top Startup" (1st Place "Flint")</b></td>
-      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate2.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate2.jpg" alt="Hackathon IT School Award" width="100%" /></a><br/><b>2. Hackathon IT School (1st Place Award)</b></td>
-      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate3.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate3.jpg" alt="Network & Systems Lab" width="100%" /></a><br/><b>3. Network Security Lab</b></td>
-      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate4.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate4.jpg" alt="Physics Academic Achievement" width="100%" /></a><br/><b>4. Physics Academic Achievement</b></td>
-    </tr>
-    <tr>
-      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate5.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate5.jpg" alt="Director Exam 1st Place" width="100%" /></a><br/><b>5. Director's Exam (1st Place)</b></td>
-      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate6.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate6.jpg" alt="Certificate of Appreciation" width="100%" /></a><br/><b>6. Director's Appreciation Visit</b></td>
-      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate7.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate7.jpg" alt="No-Code Certificate" width="100%" /></a><br/><b>7. No-Code Course (Ustoz AI)</b></td>
-      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate8.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate8.jpg" alt="Graphic Design Certificate" width="100%" /></a><br/><b>8. Prof. Graphic Design (Ustoz AI)</b></td>
-    </tr>
-  </table>
-  <i>(Click on a certificate to view a high-resolution version)</i>
+  <table>
+    <tr>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate1.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate1.jpg" alt="Top Startup Flint" width="100%" /></a><br/><b>1. "Top Startup" (1st Place "Flint")</b></td>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate2.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate2.jpg" alt="Hackathon IT School Award" width="100%" /></a><br/><b>2. Hackathon IT School (1st Place Award)</b></td>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate3.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate3.jpg" alt="Network & Systems Lab" width="100%" /></a><br/><b>3. Network Security Lab</b></td>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate4.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate4.jpg" alt="Physics Academic Achievement" width="100%" /></a><br/><b>4. Physics Academic Achievement</b></td>
+    </tr>
+    <tr>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate5.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate5.jpg" alt="Director Exam 1st Place" width="100%" /></a><br/><b>5. Director's Exam (1st Place)</b></td>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate6.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate6.jpg" alt="Certificate of Appreciation" width="100%" /></a><br/><b>6. Director's Appreciation Visit</b></td>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate7.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate7.jpg" alt="No-Code Certificate" width="100%" /></a><br/><b>7. No-Code Course (Ustoz AI)</b></td>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate8.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate8.jpg" alt="Graphic Design Certificate" width="100%" /></a><br/><b>8. Prof. Graphic Design (Ustoz AI)</b></td>
+    </tr>
+  </table>
+  <i>(Click on a certificate to view a high-resolution version)</i>
 </div>
 
 ---
@@ -102,50 +102,52 @@ Currently an **11th-grade student at Hackathon IT School**, I focus on network v
 ## 🏛️ Official Recommendation Letters
 
 <div align="center">
-  <a href="Tavsifnoma-Mahalladan.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄_Mahalla_Chairman-Recommendation-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Mahalla Recommendation"/>
-  </a>
-      
-  <a href="Recommendation_Letter_Sarafroz-2.docx" target="_blank">
-    <img src="https://img.shields.io/badge/📄_English_Teacher-Recommendation-success?style=for-the-badge&logo=microsoftword" alt="Teacher Recommendation"/>
-  </a>
-  <p><i>Official recommendation letters issued by the Mahalla Chairman and my English Teacher.</i></p>
+  <a href="Tavsifnoma-Mahalladan.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Mahalla_Chairman-Recommendation-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Mahalla Recommendation"/>
+  </a>
+      
+  <a href="Recommendation_Letter_Sarafroz-2.docx" target="_blank">
+    <img src="https://img.shields.io/badge/📄_English_Teacher-Recommendation-success?style=for-the-badge&logo=microsoftword" alt="Teacher Recommendation"/>
+  </a>
+  <p><i>Official recommendation letters issued by the Mahalla Chairman and my English Teacher.</i></p>
 </div>
 
 ---
 
 ## 🛠️ Comprehensive Technical Skill Matrix
 
-* **Security & Defense Tools:** Penetration Testing Basics, Vulnerability Assessment, Firewalls & Security Protocols
-* **Networking & Infrastructure:** CISCO Systems Architecture, Routing & Switching, VLANs, Network Traffic Analysis
-* **Scripting & Automation:** Python, C++, Bash Basics
-* **UI/UX & Design Suites:** Figma, Adobe Illustrator, Adobe Photoshop, CorelDRAW
+- **Security & Defense Tools:** Penetration Testing Basics, Vulnerability Assessment, Firewalls & Security Protocols
+- **Networking & Infrastructure:** CISCO Systems Architecture, Routing & Switching, VLANs, Network Traffic Analysis
+- **Scripting & Automation:** Python, C++, Bash Basics
+- **UI/UX & Design Suites:** Figma, Adobe Illustrator, Adobe Photoshop, CorelDRAW
 
 ---
 
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khamdam0va/khamdam0va/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khamdam0va/khamdam0va/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/output/github-contribution-grid-snake.svg">
-  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khamdam0va/khamdam0va/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khamdam0va/khamdam0va/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
 
 ## 📬 Connect & Technical Collaboration
 
-* **Portfolio Website:** [khamdam0va.github.io/portfolio](https://khamdam0va.github.io/portfolio/)
-* **Upwork Profile:** [Sarafroz Khamdamova on Upwork](https://www.upwork.com/freelancers/~01d7d91b3f7f2b8008?mp_source=share)
-* **LinkedIn Profile:** [Sarafroz Khamdamova on LinkedIn](https://www.linkedin.com/in/sarafroz-xamdamova-7135333a3/)
-* **Telegram Direct:** [@Mayuzz_001](https://t.me/Mayuzz_001)
-* **Telegram Channel:** [@hacker_hackerova](https://t.me/hacker_hackerova)
-* **Email:** [sarafrozxamdamova@gmail.com](mailto:sarafrozxamdamova@gmail.com)
-* **Location Map:** [Google Maps Link](https://maps.app.goo.gl/neZCNRPPC71wY1ct5)
+- **Portfolio Website:** [khamdam0va.github.io/portfolio](https://khamdam0va.github.io/portfolio/)
+- **Upwork Profile:** [Sarafroz Khamdamova on Upwork](https://www.upwork.com/freelancers/~01d7d91b3f7f2b8008?mp_source=share)
+- **LinkedIn Profile:** [Sarafroz Khamdamova on LinkedIn](https://www.linkedin.com/in/sarafroz-xamdamova-7135333a3/)
+- **Telegram Direct:** [@Mayuzz_001](https://t.me/Mayuzz_001)
+- **Telegram Channel:** [@hacker_hackerova](https://t.me/hacker_hackerova)
+- **Email:** [sarafrozxamdamova@gmail.com](mailto:sarafrozxamdamova@gmail.com)
+- **Location Map:** [Google Maps Link](https://maps.app.goo.gl/neZCNRPPC71wY1ct5)
 
 ---
 <p align="center">
-  <i>Maintained with ❤️ by Sarafroz Khamdamova | Cybersecurity & Network Security Specialist | 2026</i>
+  <i>Maintained with ❤️ by Sarafroz Khamdamova | Cybersecurity & Network Security Specialist | 2026</i>
 </p>
+
+shuni togirlab berasan a 
