@@ -100,7 +100,7 @@ Currently an **11th-grade student at Hackathon IT School**, I focus on network v
 ## 🌍 International Volunteering & Projects
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/wiseup-volunteering.jpg" target="_blank">
+  <a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/wiseup.jpg" target="_blank">
     <img src="https://img.shields.io/badge/🌍_View-WiseUp_International_Changemakers_Certificate-blue?style=for-the-badge&logo=world" alt="WiseUp Certificate"/>
   </a>
   <p><i>📜 Certificate of Active Participation — WiseUp International Changemakers Volunteering Project (Organized by WiseUp International, ColiCast & World Literacy Foundation).</i>[cite: 5]</p>
