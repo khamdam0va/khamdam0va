@@ -86,19 +86,24 @@ Currently an **11th-grade student at Hackathon IT School**, I focus on network v
       <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate4.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate4.jpg" alt="Physics Academic Achievement" width="100%" /></a><br/><b>4. Physics Achievement</b></td>
     </tr>
     <tr>
-      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/wiseup-volunteering.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/wiseup-volunteering.jpg" alt="WiseUp International Volunteering" width="100%" /></a><br/><b>5. WiseUp Intl. Volunteering</b></td>
-      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate5.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate5.jpg" alt="Director Exam 1st Place" width="100%" /></a><br/><b>6. Director's Exam (1st Place)</b></td>
-      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate6.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate6.jpg" alt="Certificate of Appreciation" width="100%" /></a><br/><b>7. Director's Appreciation</b></td>
-      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate7.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate7.jpg" alt="No-Code Certificate" width="100%" /></a><br/><b>8. No-Code Course (Ustoz AI)</b></td>
-    </tr>
-    <tr>
-      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate8.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate8.jpg" alt="Graphic Design Certificate" width="100%" /></a><br/><b>9. Graphic Design (Ustoz AI)</b></td>
-      <td align="center" width="25%"></td>
-      <td align="center" width="25%"></td>
-      <td align="center" width="25%"></td>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate5.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate5.jpg" alt="Director Exam 1st Place" width="100%" /></a><br/><b>5. Director's Exam (1st Place)</b></td>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate6.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate6.jpg" alt="Certificate of Appreciation" width="100%" /></a><br/><b>6. Director's Appreciation</b></td>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate7.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate7.jpg" alt="No-Code Certificate" width="100%" /></a><br/><b>7. No-Code Course (Ustoz AI)</b></td>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate8.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate8.jpg" alt="Graphic Design Certificate" width="100%" /></a><br/><b>8. Graphic Design (Ustoz AI)</b></td>
     </tr>
   </table>
   <i>(Click on a certificate to view a high-resolution version)</i>
+</div>
+
+---
+
+## 🌍 International Volunteering & Projects
+
+<div align="center">
+  <a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/wiseup-volunteering.jpg" target="_blank">
+    <img src="https://img.shields.io/badge/🌍_View-WiseUp_International_Changemakers_Certificate-blue?style=for-the-badge&logo=world" alt="WiseUp Certificate"/>
+  </a>
+  <p><i>📜 Certificate of Active Participation — WiseUp International Changemakers Volunteering Project (Organized by WiseUp International, ColiCast & World Literacy Foundation).</i>[cite: 5]</p>
 </div>
 
 ---
