@@ -92,7 +92,7 @@ Currently an **11th-grade student at Hackathon IT School**, I focus on network v
       <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate8.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate8.jpg" alt="Graphic Design Certificate" width="100%" /></a><br/><b>8. Graphic Design (Ustoz AI)</b></td>
     </tr>
     <tr>
-      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate9.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate9.jpg" alt="WiseUp International Volunteering" width="100%" /></a><br/><b>9. WiseUp Intl. Volunteering</b>[cite: 5]</td>
+      <td align="center" width="25%"><a href="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate9.jpg" target="_blank"><img src="https://raw.githubusercontent.com/khamdam0va/khamdam0va/main/certificate9.jpg" alt="WiseUp International Volunteering" width="100%" /></a><br/><b>9. WiseUp Intl. Volunteering</b></td>
       <td align="center" width="25%"></td>
       <td align="center" width="25%"></td>
       <td align="center" width="25%"></td>
